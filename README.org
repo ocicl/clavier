@@ -1,0 +1,9 @@
+* clavier
+
+General purpose validation library for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/mmontone/clavier.git |
+| commit  | 9b1424e                                     |
+| systems | clavier                                     |
+|---------+---------------------------------------------|
