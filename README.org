@@ -4,7 +4,7 @@ General purpose validation library for Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/mmontone/clavier.git |
-| commit  | 2eb3002                                     |
+| commit  | 98d2801                                     |
 | systems | clavier                                     |
 |---------+---------------------------------------------|
  
